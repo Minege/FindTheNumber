@@ -11,3 +11,6 @@ FindTheNumber is a cli game made in Rust by Minege, has been mainly created for 
 ```
 cargo run
 ```
+##Goal of the game
+
+The goal of FindTheNumber is to find the correct number. You can choose the range of the number ( the number will be taken randomly ), and you can choose the maximum number of mistake you can do !
