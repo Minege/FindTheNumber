@@ -1,0 +1,8 @@
+[package]
+name = "guess_the_number"
+version = "0.0.1"
+authors = ["Minege <minege02@gmail.com"]
+
+[dependencies]
+time = "*"
+rand = "*"
